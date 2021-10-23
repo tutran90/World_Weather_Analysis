@@ -1,1 +1,3 @@
-# World_Weather_Analysis
+# World Weather Analysis
+
+The purpose of this analysis was to utilize API calls to locate random cities off of random latitudes and longitudes. Once this was found, a search was conducted to find the nearest cities based off of these coordinates, followed by finding the nearest hotels. After collecting the information for the hotel and city an itinerary was created. There are 3 images saved under the "Vacation_Itinerary" folder since the markers could not fit all on one picture. 
